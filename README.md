@@ -1,2 +1,2 @@
 # Football-Match-Predictions
-Predicting Match Outcomes of Football Matches using R
+Predicting Events (Outcomes or Over/Under 2.5 Goals) in Football Matches using R
